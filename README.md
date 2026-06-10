@@ -1,23 +1,40 @@
-# 🍽️ Restaurant SQL
+# Restaurant SQL
 
-Projeto de banco de dados para um restaurante utilizando MySQL.
+Projeto de banco de dados para gerenciamento de restaurante.
 
-## 📂 Estrutura
-- schemas.sql → criação das tabelas
-- inserts.sql → dados de teste
-- queries.sql → consultas SQL
-- views.sql → views
-- functions.sql → funções
-
-## 🚀 Funcionalidades
-- CRUD completo
-- JOINs entre tabelas
-- Views para análise
-- Functions para lógica de negócio
-
-## 🛠️ Tecnologias
+## Tecnologias
 - MySQL
 - SQL
 
-## 📊 Objetivo
-Praticar modelagem de dados e consultas SQL simulando um sistema real.
+## Modelo Relacional
+
+(imagem)
+
+## Estrutura
+
+schemas.sql
+inserts.sql
+queries.sql
+views.sql
+functions.sql
+
+## Funcionalidades
+
+- CRUD
+- JOINs
+- Views
+- Functions
+- Procedures
+- Triggers
+
+## Consultas Analíticas
+
+- Faturamento mensal
+- Produtos mais vendidos
+- Clientes VIP
+
+## Como executar
+
+1. Execute schemas.sql
+2. Execute inserts.sql
+3. Execute queries.sql
